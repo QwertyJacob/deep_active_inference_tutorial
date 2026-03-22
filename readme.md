@@ -1,6 +1,6 @@
 # Deep Active Inference Tutorial  
 A (hopefully) simple & visual introduction to **Active Inference** in continuous partially-observable environments using PyTorch
-
+![](figs/actinfcover.jpg)
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-2.x-orange?style=flat&logo=pytorch" alt="PyTorch">
   <img src="https://img.shields.io/badge/Active%20Inference-Deep%20Learning-blue?style=flat" alt="Active Inference">
