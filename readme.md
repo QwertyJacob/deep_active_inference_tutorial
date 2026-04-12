@@ -1,5 +1,10 @@
 # Deep Active Inference Tutorial  
+
+
+---
 A (hopefully) simple & visual introduction to **Active Inference** in continuous partially-observable environments using PyTorch
+---
+
 ![](figs/actinfcover.jpg)
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-2.x-orange?style=flat&logo=pytorch" alt="PyTorch">
@@ -59,7 +64,7 @@ pip install torch numpy matplotlib collections
 ## How to use
 
 1. Open the notebook  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/BONUSX_ActiveInference.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QwertyJacob/deep_active_inference_tutorial/blob/main/main.ipynb)
 
 2. Run cells sequentially — everything is self-contained
 
